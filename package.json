@@ -1,0 +1,25 @@
+{
+  "name": "angel",
+  "version": "0.0.0",
+  "description": "Node.js client for the AngelList API",
+  "main": "index.js",
+  "dependencies": {
+    "request": "2.27.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bnoguchi/angel.git"
+  },
+  "keywords": [
+    "AngelList",
+    "API"
+  ],
+  "author": "Brian N Noguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bnoguchi/angel/issues"
+  }
+}
